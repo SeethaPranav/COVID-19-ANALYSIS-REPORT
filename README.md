@@ -1,7 +1,7 @@
 # COVID-19-ANALYSIS-REPORT
 COVID-19 Analytics Power BI Dashboard is an extensive data visualization tool that provides critical insights into the global effects of the COVID-19 pandemic.
 Built with Microsoft Power BI, this dashboard offers an interactive and intuitive interface for examining and analyzing essential metrics, including COVID-19 cases, deaths, recoveries, and more.
-The project highlights the use of Power BI visuals to represent the worldwide impact of the coronavirus, featuring various elements such as a filled map, clustered column chart, donut chart, card visuals,slicers etc.
+The project highlights the use of Power BI visuals to represent the worldwide impact of the coronavirus, featuring various elements such as a filled map, clustered column chart, donut chart, card visuals, slicers etc.
 
 * Two  new columns created: Morality Rate, Recovery Rate
 * New measures added: Sum of Morality rate, Recovery rate, Confirmed cases etc..
