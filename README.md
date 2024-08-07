@@ -17,3 +17,11 @@ FEATURES:-
        Monitor critical KPIs such as Morality Rate, Recovery Rate, and Active Cases, helping to assess the severity and response to the pandemic.
 * Customizable Filters:
        Users can apply filters based on date ranges, countries, or regions to focus on specific areas of interest and perform detailed analysis.
+
+GLIMPSE OF THE DASHBOARD:-
+
+![GLOBAL SUMMARY REPORT](https://github.com/user-attachments/assets/2847486d-f48c-4cb8-866b-d8167bb2ddc9)
+
+![MONTHLY SUMMARY REPORT](https://github.com/user-attachments/assets/b24baa58-a53c-4352-a5a6-ecdaf06e1e59)
+
+![CONTRYWISE SUMMARY REPORT](https://github.com/user-attachments/assets/a7b3a691-d565-4d72-95a6-2e2617aa700c)
